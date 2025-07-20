@@ -1,5 +1,4 @@
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+#!/opt/conda/bin/python
 
 import argparse
 import bz2
